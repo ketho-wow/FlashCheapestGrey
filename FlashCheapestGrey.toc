@@ -1,0 +1,7 @@
+## Interface: 11302
+## Version: @project-version@
+## Title: FlashCheapestGrey
+## Notes: Flashes the cheapest grey item in your bags
+## Author: Ketho, Icesythe7
+
+FlashCheapestGrey.lua
